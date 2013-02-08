@@ -13,10 +13,10 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 debug.log
-.Gemfile
+
 /.bundle
 /.ruby-version
-/Gemfile.lock
+
 /pkg
 /dist
 /doc/rdoc
@@ -35,7 +35,7 @@ debug.log
 *.log
 tmp/**/*
 tmp/*
-Gemfile.lock
+
 doc/api
 doc/app
 *.swp
